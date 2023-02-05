@@ -1,0 +1,25 @@
+{
+    "name": "flex-toolchain",
+    "version": "0.0.1",
+    "description": "FLeX toolchain",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/darhm00/flex-toolchain.git"
+    },
+    "keywords": [
+        "flex"
+    ],
+    "author": "darhm00",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/darhm00/flex-toolchain/issues"
+    },
+    "homepage": "https://github.com/darhm00/flex-toolchain#readme"
+}
