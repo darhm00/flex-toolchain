@@ -1,4 +1,6 @@
 # FLeX toolchain (WIP)
+![FLeX toolchain logo](./logo.png)
+<hr>
 The FLeX toolchain is a toolchain for the FLeX programming language, which includes:
  - an interpreter;
  - a compiler;
