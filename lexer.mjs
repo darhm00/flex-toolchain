@@ -421,7 +421,7 @@ export class Lexer {
         }
 
         if (
-            /[a-z-0-9]/.test(this.c) ||
+            /[a-z-]/.test(this.c) ||
             (this.c == "." &&
             this.tokens[this.tokens.length - 1].value.slice(-1) != ".") ||
             (this.c == "$" &&
